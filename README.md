@@ -1,4 +1,4 @@
-50Projects_In_50Days
+**50Projects_In_50Days**
 50 Projects in 50 days - HTML, CSS, and JavaScript by Brad Traversy, Florin Pop (Oreilly)
 
 ** About the Projects ** : HTML, CSS, and JavaScript, DOM manipulation, events, array methods, HTTP requests, Modern styling with flexbox, CSS animations and custom properties.
